@@ -1,0 +1,17 @@
+{
+    "name": "kumar/crackphp",
+    "authors": [
+        {
+            "name": "dhiraj",
+            "email": "kumardhiraj.179@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "."
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
